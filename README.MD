@@ -102,25 +102,26 @@ cd biblioteca
 php -S localhost:8000
 
 # Acceder en navegador
-http://localhost:8000
+http://localhost:8000  
 🎮 Guía de Uso Rápida<br>
 📚 Páginas Principales  
-Página	URL	Descripción  
-🏠 Dashboard	index.php	Estadísticas del sistema  
-📚 Materiales	?page=materials	Todos los materiales  
-📖 Libros	?page=materials&type=llibre	Solo libros  
-💿 DVDs	?page=materials&type=dvd	Solo DVDs  
-📰 Revistas	?page=materials&type=revista	Solo revistas  
-👥 Usuarios	?page=usuaris	Lista de usuarios  
-🔄 Préstamos	?page=prestecs	Préstamos activos  
-📊 Stats	?page=estadistiques	Estadísticas  
-📝 Auditoría	?page=auditoria	Historial de acciones  
+Página	        URL	                           Descripción  
+🏠 Dashboard	index.php	                   Estadísticas del sistema  
+📚 Materiales	?page=materials	               Todos los materiales  
+📖 Libros	    ?page=materials&type=llibre	   Solo libros  
+💿 DVDs	        ?page=materials&type=dvd	   Solo DVDs  
+📰 Revistas	    ?page=materials&type=revista   Solo revistas  
+👥 Usuarios	    ?page=usuaris	               Lista de usuarios  
+🔄 Préstamos	?page=prestecs	               Préstamos activos  
+📊 Stats	    ?page=estadistiques	           Estadísticas  
+📝 Auditoría	?page=auditoria	               Historial de acciones  
+  
 👤 Gestión de Usuarios  
 Ver perfil: ?page=usuari&id=Alice  
 
 Nuevo usuario: ?page=nou_usuari
 
-🔧 Demostraciones Técnicas
+🔧 Demostraciones Técnicas  
 Métodos mágicos: ?page=demo_magic
 
 Serialización: ?page=demo_serialization
