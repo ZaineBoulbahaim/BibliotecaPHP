@@ -103,7 +103,7 @@ php -S localhost:8000
 
 # Acceder en navegador
 http://localhost:8000
-🎮 Guía de Uso Rápida  
+🎮 Guía de Uso Rápida<br>
 📚 Páginas Principales  
 Página	URL	Descripción  
 🏠 Dashboard	index.php	Estadísticas del sistema  
